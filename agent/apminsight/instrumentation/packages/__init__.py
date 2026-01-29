@@ -84,7 +84,8 @@ modules_info = {
     **cheroot.module_info,
     **wsgiref.module_info,
     **werkzeug.module_info,
-    **pika.module_info
+    **pika.module_info,
+    **falcon.module_info
 }
 
 inbuilt_modules_info = {}
